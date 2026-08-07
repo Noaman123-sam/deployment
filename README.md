@@ -42,9 +42,9 @@ Manual traffic monitoring is slow and doesn't scale. Automated, real-time vehicl
    - Applied the trained YOLO model to detect and track vehicles frame-by-frame
 
 4. **Evaluation**
-  mAP@50–95: 80.83%
-  Precision: 94.22%
-  Recall: 89.72%
+-mAP@50–95: 80.83%
+-Precision: 94.22%
+-Recall: 89.72%
 
 5. **Deployment**
    - Wrapped the detection pipeline into a web application for real-time traffic analysis
